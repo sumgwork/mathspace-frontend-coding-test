@@ -4,6 +4,12 @@ Submitted by: **Sumit Govil**
 
 This project presents an interactive histogram designed for Mathspace. It features a configurable maximum Y-axis value, and allows real-time adjustments of bar values via drag interactions.
 
+## Demo
+
+[https://mathspace-sumit.netlify.app/](https://mathspace-sumit.netlify.app/)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/82ecaf2e-4577-4471-85a1-598222657ca4/deploy-status)](https://app.netlify.com/sites/mathspace-sumit/deploys)
+
 ## Choice of Stack
 
 - **ReactJS**: Selected as the primary framework for its robust ecosystem and component-driven architecture.
